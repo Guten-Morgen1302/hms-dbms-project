@@ -187,7 +187,7 @@ After seeding the database, you can log in with:
 | Role | Username | Password |
 |------|----------|----------|
 | Admin | admin | admin123 |
-| Doctor | doctor | doctor123 |
+| Doctor | draarav0 | doctor123 |
 | Patient | patient | patient123 |
 
 ## API Documentation
